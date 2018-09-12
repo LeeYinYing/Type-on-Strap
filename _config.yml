@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/new-theme"
-url: "https://LeeYinYing.github.io"
+url: "https://LeeYinYing.github.io/"
 title: Type on Strap # site's title
 description: "A website with blog posts and pages" # used by search engines
 
