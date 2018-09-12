@@ -1,5 +1,7 @@
 # Type on Strap 
 
+Note: Before you start, to use this theme, you will need to update the address of the URL to your repository name!
+
 [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
 
